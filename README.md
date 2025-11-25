@@ -1,4 +1,4 @@
- Hi, I’m Stephen John D. Dela Cruz
+## Hi, I’m Stephen John D. Dela Cruz
 
 BSIT – Web & Mobile Development 
 

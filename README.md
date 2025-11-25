@@ -45,24 +45,13 @@ I'm a passionate developer focused on building useful and clean applications —
 ---
 
 ## 📌 Featured Projects
-### 🔹 **Navigate My Campus (AR-Based Navigation App)**  
+### 🔹 **[Navigate My Campus (AR-Based Navigation App)](https://github.com/Stephen-DCruz7/ar-navigation)**  
 AR mobile app for BulSU Bustos Campus helping users navigate buildings.
 
 ---
 
 ## 📈 GitHub Stats
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Stephen-DCruz&theme=radical&hide_border=false)
-
-### 📊 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephen-DCruz&theme=redical)
-
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Stephen-DCruz&theme=radical&no-frame=true&margin-w=10)
-
-### 📚 General Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Stephen-DCruz&show_icons=true&theme=radical)
-
-### 🔤 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-DCruz&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrk.vercel.app/api?username=Stephen-DCruz7&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=Stephen-DCruz7&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Stephen-DCruz7&theme=radical&hide_border=false)

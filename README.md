@@ -6,11 +6,11 @@ I'm a passionate developer focused on building useful and clean applications —
 ---
 
 ## 🚀 What I Do
-- **Web Development:** PHP, Laravel, MySQL, REST APIs  
-- **Mobile & AR Development:** Unity + AR Foundation  
-- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
-- **Back-End:** PHP, Laravel, Firebase, MySQL  
-- **UI/UX:** Responsive design, mobile-first layouts  
+- Develop **full-stack web applications** using PHP & Laravel  
+- Build **mobile apps** and **AR experiences** using Unity + AR Foundation  
+- Design **responsive, mobile-first UI/UX**  
+- Create **REST APIs**, authentication systems, and database-driven platforms  
+- Maintain clean code and follow modern best practices  
 
 ---
 
@@ -52,6 +52,17 @@ AR mobile app for BulSU Bustos Campus helping users navigate buildings.
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Stephen-DCruz7&theme=radical&hide_border=false)
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Stephen-DCruz&theme=radical&hide_border=false)
 
+### 📊 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stephen-DCruz&theme=redical)
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Stephen-DCruz&theme=radical&no-frame=true&margin-w=10)
+
+### 📚 General Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Stephen-DCruz&show_icons=true&theme=radical)
+
+### 🔤 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-DCruz&layout=compact&theme=radical)

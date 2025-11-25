@@ -35,8 +35,8 @@ AR mobile app for BulSU Bustos Campus helping users navigate buildings.
 
 ---
 
-
 ## 📈 GitHub Stats
-```md
+
 ![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephen-DCruz7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-DCruz7&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-DCruz7&layout=compact&theme=radical)
+

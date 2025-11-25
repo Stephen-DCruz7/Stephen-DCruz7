@@ -1,12 +1,42 @@
-## Hi, I’m Stephen John D. Dela Cruz
+# 👋 Hi, I’m **Stephen John D. Dela Cruz**
+**BSIT – Web & Mobile Development | BulSU Bustos**
 
-BSIT – Web & Mobile Development 
+I'm a passionate developer focused on building useful and clean applications — from **web systems**, **mobile apps**, and **AR experiences**. I enjoy learning new tech, building real projects, and turning ideas into working software.
 
-I'm a passionate developer focused on building useful and clean applications — from web systems, mobile apps, and AR experiences. I enjoy learning new tech, building real projects, and turning ideas into working software.
+---
 
-🚀 What I Do
+## 🚀 What I Do
+- **Web Development:** PHP, Laravel, MySQL, REST APIs  
+- **Mobile & AR Development:** Unity + AR Foundation  
+- **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind  
+- **Back-End:** PHP, Laravel, Firebase, MySQL  
+- **UI/UX:** Responsive design, mobile-first layouts  
 
-Web Development: PHP, Laravel, MySQL, REST APIs
-Mobile & AR Development: Unity + AR Foundation
-Front-End: HTML, CSS, JavaScript, Bootstrap, Tailwind
-Back-End: PHP, Laravel, Firebase, MySQL
+---
+
+## 🛠️ Tech Stack
+**Languages:**  
+HTML · CSS · JavaScript · PHP · Java · C#
+
+**Frameworks & Tools:**  
+Laravel · Bootstrap · Tailwind CSS · AR Foundation  
+
+**Databases & Tech:**  
+MySQL · SQLite · Firebase · phpMyAdmin  
+
+**Dev Tools:**  
+VS Code · Android Studio · Unity · Git · GitHub  
+
+---
+
+## 📌 Featured Projects
+### 🔹 **Navigate My Campus (AR-Based Navigation App)**  
+AR mobile app for BulSU Bustos Campus helping users navigate buildings.
+
+---
+
+
+## 📈 GitHub Stats
+```md
+![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephen-DCruz7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-DCruz7&layout=compact&theme=radical)
